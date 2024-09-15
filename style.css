@@ -110,7 +110,7 @@ body {
     text-transform: uppercase;
 }
 
-.btn {
+.button {
     padding: 0.6rem 1rem;
     border-radius: 10px;
     background-color: #f6f4f1;
@@ -122,11 +122,16 @@ body {
     transition: background-color 0.2s ease-in-out;
 }
 
-.btn:hover {
+.button:hover {
     background-color: #5b5247;
     color: #f6f4f1;
     border: #5b5247 solid 2px;
     transition: background-color 0.2s ease-in-out;
+}
+.button:active {
+    background-color: #5b5247;
+    color: #f6f4f1;
+    border: #5b5247 solid 2px;
 }
 
 /*footer section*/
