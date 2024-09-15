@@ -1,9 +1,9 @@
 # Hotel Cork
 
-This website was a _College Assessment_ where we should **design** a landing page and some other pages.
+This website was a **College Assessment** where we should **design** a landing page and some other pages.
 Please, check the [PDF File](docs/hotel-cork-design.pdf) to see my work.
 
-I develop my assessment a bit more and **create** a real webpage with it, access the link below:
+I develop my assessment a bit more and **create** a real webpage with it. Access the link below:
 
 www.hotel-cork.github.io
 
