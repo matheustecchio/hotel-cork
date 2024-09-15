@@ -46,10 +46,12 @@ body {
     justify-content: space-between;
     font-weight: bold;
 }
+
 .nav-link {
     padding:0.2rem;
     border-radius: 10px;
 }
+
 .nav-link:hover {
     background-color: #af9d81;
     border-radius: 10px;
@@ -78,13 +80,15 @@ body {
 }
 
 #book-btn {
-    position: absolute;
-    top: 60vh;
-    left: 45vw;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -20vh;
     font-size: 2rem;
     font-weight: bold;
     text-transform: uppercase;
 }
+
 #book-btn > a {
     color: #5b5247;
     background-color: #f6f4f1;
@@ -93,6 +97,7 @@ body {
     padding: 1rem 2rem;
     border-radius: 50px;
 }
+
 #book-btn > a:hover {
     color: #f6f4f1;
     background-color: #5b5247;
@@ -128,6 +133,7 @@ body {
     border: #5b5247 solid 2px;
     transition: background-color 0.2s ease-in-out;
 }
+
 .button:active {
     background-color: #5b5247;
     color: #f6f4f1;
@@ -139,6 +145,25 @@ footer {
     padding: 2rem 2rem 0.5rem;
 }
 
+/*Media Queries*/
+@media (max-width: 1236px) {
+    #header-main {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    #brand-name, #brand-motto {
+        font-size: 1.3rem;
+    }
+    #header-navbar {
+        font-size: 1.1rem;
+    }
+
+    #book-btn {
+        font-size: 1.5rem;
+    }
+}
 
 
 
