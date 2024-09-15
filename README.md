@@ -5,7 +5,7 @@ Please, check the [PDF File](docs/hotel-cork-design.pdf) to see my work.
 
 I develop my assessment a bit more and **create** a real webpage with it. Access the link below:
 
-www.hotel-cork.github.io
+[Go to Website](https://matheustecchio.github.io/hotel-cork/)
 
 # Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
