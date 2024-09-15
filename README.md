@@ -1,7 +1,7 @@
 # Hotel Cork
 
-This website was a **College Assessment** where we should **design** a landing page and some other pages.
-Please, check the [PDF File](docs/hotel-cork-design.pdf) to see my work.
+This website was a **College Assessment** where we should **design** a landing page and some other pages for a Hotel
+based in Cork, Ireland. Please, check the [PDF File](docs/hotel-cork-design.pdf) to see my work.
 
 I develop my assessment a bit more and **create** a real webpage with it. Access the link below:
 
